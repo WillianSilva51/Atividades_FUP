@@ -15,6 +15,7 @@ As atividades deste repositório envolvem a prática de conceitos como:
 - Estruturas de controle (condicionais e loops)
 - Funções 
 - Algoritmos de ordenação
+- Recursão
 - Entre outros
 
 Cada diretório contém o código fonte de suas respectivas questões
